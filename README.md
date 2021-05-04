@@ -13,8 +13,8 @@
     <img src="https://badgen.net/chrome-web-store/rating-count/hdhinadidafjejdhmfkjgnolgimiaplp" >
     <img src="https://badgen.net/chrome-web-store/v/hdhinadidafjejdhmfkjgnolgimiaplp" >
     <br> firefox addon stats:
-    <img src="https://badgen.net/amo/users/Page-description-finder" >
-    <img src="https://badgen.net/amo/rating/Page-description-finder" >
-    <img src="https://badgen.net/amo/reviews/Page-description-finder" >
-    <img src="https://badgen.net/amo/v/Page-description-finder" >
+    <img src="https://badgen.net/amo/users/description-scanner/" >
+    <img src="https://badgen.net/amo/rating/description-scanner/" >
+    <img src="https://badgen.net/amo/reviews/description-scanner/" >
+    <img src="https://badgen.net/amo/v/description-scanner/" >
 </div>
