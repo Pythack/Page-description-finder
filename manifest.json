@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Description scanner",
+  "author": "Pythack",
+  "version": "1.0",
+  "description": "Finds the description of the page. ",
+  "background": {
+    "scripts": ["./background.js"]
+  },
+  "content_scripts": [
+  {
+    "matches": ["<all_urls>"],
+    "js": ["./find_description.js"]
+  }
+],
+  "permissions": [
+    "storage",
+    "<all_urls>",
+    "activeTab",
+    "tabs"
+  ],
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Display page description",
+    "default_popup": "./popup.html",
+    "browser_style": true
+  }
+}
