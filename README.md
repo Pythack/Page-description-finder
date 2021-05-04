@@ -7,12 +7,6 @@
     <img src="https://badgen.net/github/open-prs/Pythack/Page-description-finder" >
     <img src="https://badgen.net/github/tag/Pythack/Page-description-finder" >
     <img src="https://badgen.net/github/license/Pythack/Page-description-finder" >
-    <br> chrome web store stats:
-    <img src="https://badgen.net/chrome-web-store/users/hdhinadidafjejdhmfkjgnolgimiaplp" >
-    <img src="https://badgen.net/chrome-web-store/rating/hdhinadidafjejdhmfkjgnolgimiaplp" >
-    <img src="https://badgen.net/chrome-web-store/rating-count/hdhinadidafjejdhmfkjgnolgimiaplp" >
-    <img src="https://badgen.net/chrome-web-store/v/hdhinadidafjejdhmfkjgnolgimiaplp" >
-    <br> firefox addon stats:
     <img src="https://badgen.net/amo/users/description-scanner/" >
     <img src="https://badgen.net/amo/rating/description-scanner/" >
     <img src="https://badgen.net/amo/reviews/description-scanner/" >
