@@ -1,4 +1,5 @@
 # Page-description-finder
+:warning: **Addon is in review**
 <div align="center">
     <br> Github repository stats:
     <img src="https://badgen.net/github/stars/Pythack/Page-description-finder" >
