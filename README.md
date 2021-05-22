@@ -14,7 +14,7 @@
     <img src="https://badgen.net/amo/v/page-description-finder/" >
 </div>
 
-<a text-align="center" href="https://addons.mozilla.org/en-GB/firefox/addon/page-description-finder/"><img alt="Get for Firefox" src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png" width="172" height="60"></a> or <a href="https://addons.mozilla.org/firefox/downloads/file/3770854/description_scanner-1.0-fx.xpi">install now</a> !
+<a text-align="center" href="https://addons.mozilla.org/en-GB/firefox/addon/page-description-finder/"><img alt="Get for Firefox" src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png" width="172" height="60"></a> or <a href="https://addons.mozilla.org/firefox/downloads/file/3774398/page_description_finder-1.0.0.1-fx.xpi">install now</a> !
 
 # Features
 * Detect the description of a webpage
