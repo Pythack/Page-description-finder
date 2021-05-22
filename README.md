@@ -8,10 +8,10 @@
     <img src="https://badgen.net/github/tag/Pythack/Page-description-finder" >
     <img src="https://badgen.net/github/license/Pythack/Page-description-finder" >
     <br/> Firefox addon stats:
-    <img src="https://badgen.net/amo/users/description-scanner/" >
-    <img src="https://badgen.net/amo/rating/description-scanner/" >
-    <img src="https://badgen.net/amo/reviews/description-scanner/" >
-    <img src="https://badgen.net/amo/v/description-scanner/" >
+    <img src="https://badgen.net/amo/users/page-description-finder/" >
+    <img src="https://badgen.net/amo/rating/page-description-finder/" >
+    <img src="https://badgen.net/amo/reviews/page-description-finder/" >
+    <img src="https://badgen.net/amo/v/page-description-finder/" >
 </div>
 
 <a text-align="center" href="https://addons.mozilla.org/en-GB/firefox/addon/page-description-finder/"><img alt="Get for Firefox" src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png" width="172" height="60"></a> or <a href="https://addons.mozilla.org/firefox/downloads/file/3770854/description_scanner-1.0-fx.xpi">install now</a> !
