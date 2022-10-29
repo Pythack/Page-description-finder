@@ -2,11 +2,11 @@
   "manifest_version": 2,
   "name": "Google show image",
   "author": "Pythack",
-  "version": "0.0.0.5",
-  "description": "Adds the \"show image\" button. ",
+  "version": "0.0.1",
+  "description": "Adds the \"Show image\" button. ",
   "content_scripts": [
   {
-    "matches": ["https://*.google.com/*"],
+    "matches": ["https://www.google.com/*"],
     "js": ["./add_button.js"],
     "css": ["./inject.css"]
   }

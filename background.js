@@ -1,6 +1,4 @@
-console.log("Connected");
-
-function listener(message) {
+function listener(message) { // Create new tab with image
   browser.tabs.create({
     url:message.url
   });
